@@ -43,7 +43,7 @@
   },
   "homepage": "https://github.com/SilentCicero/number-to-bn#readme",
   "dependencies": {
-    "bn.js": "sergejbog/bn.js#main",
+    "bn.js": "sergejbog/bnjs#main",
     "strip-hex-prefix": "1.0.0"
   },
   "testling": {
